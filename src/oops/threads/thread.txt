@@ -1,0 +1,21 @@
+Threads
+~~~~~~~~~~~~~
+
+Thread is a line of execution within a program. Each program can have
+multiple associated threads.
+ 
+Threads are the smallest unit of process. Threads have separate paths of
+execution. Threads use shared memory but they act independently hence if
+there is an exception in threads that do not affect the working of other
+threads despite them sharing the same memory. Threads are lightweight
+subprocess.
+
+Java provides a thread class that has various method calls in order to manage
+the behavior of threads by providing constructors and methods to perform
+operations on threads.
+ 
+There are two ways to start a new Thread. 1. By extending Thread class - sub
+class of Thread. 2. By implementing Runnable interface.
+ 
+There is no need of subclassing a Thread when a task can be done by
+overriding only run() method of Runnable interface.
