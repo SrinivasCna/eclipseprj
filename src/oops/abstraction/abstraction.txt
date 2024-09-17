@@ -1,0 +1,27 @@
+Abstraction
+~~~~~~~~~~~~
+
+Abstraction is the process of hiding certain details and 
+showing only essential information to the user.
+
+How to achieve Abstraction ?
+Abstraction can be achieved using either 
+Abstract Classes or Interfaces
+
+The abstract keyword is a non-access modifier used for 
+classes and methods
+
+Abstract Class
+Abstract Class is a restricted class 
+Abstract Class cannot be used to instantiate / initialize object
+Abstract Class can have abstract and regular methods.
+
+1. Pure Abstract
+Only abstract methods
+
+2. Impure Abstract
+Both abstract and regular methods
+
+Abstract Method
+Abstract Method can be used in an abstract class.
+Abstract Method does not have a implementation / body.

@@ -1,0 +1,22 @@
+TRY and CATCH
+~~~~~~~~~~~~~~~
+
+The try statement allows you to define a block of code to be tested for errors
+while it is being executed.
+The catch statement allows you to define a block of code to be executed,
+if an error occurs in the try block
+The try and catch keywords come in pairs
+
+SYNTAX:
+try {}
+catch() {}
+
+FINALLY
+The finally statement lets you execute code, after try... catch,
+regardless of the result
+finally is optional
+ 
+SYNTAX:
+try {}
+catch() {}
+finally{}

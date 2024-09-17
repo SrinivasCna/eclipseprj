@@ -1,0 +1,44 @@
+Object class
+~~~~~~~~~~~~~~~
+
+Every class has Object as a superclass
+All objects, including arrays, implement the methods of this class
+
+Object class is present in java.lang package. 
+Every class in Java is directly or indirectly derived 
+from the Object class. 
+If a class does not extend any other class then it is a 
+direct child class of Object and if extends another class then 
+it is indirectly derived. 
+Therefore the Object class methods are available to all Java classes
+
+he Object class provides multiple methods which are as follows:
+
+1. toString() method
+2. hashCode() method
+3. equals(Object obj) method
+4. finalize() method
+5. getClass() method
+6. clone() method
+7. wait() method
+8. notify() method 
+9. notifyAll() method
+
+1. toString() method
+Returns a string representation of the object.
+
+2. hashCode() method
+For every object, JVM generates a unique number which is a hashcode. 
+It returns distinct integers for distinct objects. 
+A common misconception about this method is that the 
+hashCode() method returns the address of the object, 
+which is not correct. 
+It converts the internal address of the object to an integer 
+by using an algorithm.
+
+3. equals(Object obj) method
+It compares the given object to “this” object 
+(the object on which the method is called). 
+It gives a generic way to compare objects for equality. 
+It is recommended to override the equals(Object obj) method 
+to get our own equality condition on Objects.

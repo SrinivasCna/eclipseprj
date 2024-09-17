@@ -1,0 +1,24 @@
+Date and Time
+~~~~~~~~~~~~~
+
+Java does not have built in Date class
+
+We have to import from java.time
+
+LocalDate, LocalTime, LocalDateTime, DateTimeFormatter
+ 
+LocalDate
+~~~~~~~~~~
+Represents a date(year, month, day)(yyyy-MM-dd)
+
+LocalTime
+~~~~~~~~~~~
+Represents a time(hour, minute, second and nanoseconds)(HH-mm-ss.ns)
+
+LocalDateTime
+~~~~~~~~~~~~~~
+Represents both date and time (yyyy-MM-dd-HH-mm-ss.ns)
+
+DateTimeFormatter
+~~~~~~~~~~~~~~~~~~
+Formatter for displaying and parsing date-time object

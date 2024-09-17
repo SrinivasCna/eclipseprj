@@ -1,0 +1,5 @@
+Functional Interface
+~~~~~~~~~~~~~~~~~~~~
+
+Interface having only one abstract method is 
+referred as Functional Interface

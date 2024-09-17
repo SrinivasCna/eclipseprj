@@ -1,0 +1,24 @@
+This Keyword
+~~~~~~~~~~~~~~
+
+Note:
+this keyword can be used only in non static methods.
+usage of this keyword is not allowed in static context
+
+There are 2 usages of "this" keyword
+
+Usage 1
+~~~~~~~~~
+this keyword refers to the current object inside a method. 
+ 
+Usage 2
+~~~~~~~~~
+this keyword can also be used inside a constructor to call 
+another constructor
+
+Important Note:
+~~~~~~~~~~~~~~~~
+If you are using this keyword inside the constructor to call 
+another constructor then,
+this should be the very first statement in your constructor. 
+You are not allowed to do anything else, not even a sysout.

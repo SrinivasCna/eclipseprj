@@ -1,0 +1,17 @@
+Interface
+~~~~~~~~~~~
+
+Interface is contract / agreement that the implementing class 
+has to provide implementation of the abstract method in interface
+
+An Interface is defined as an abstract type used to specify 
+the behavior of a class. 
+
+An interface in Java is a blueprint of a behavior.
+
+Interface contains static constants and abstract methods.
+ 
+Interface is way to achieve 100% or total abstraction.
+
+When we decide on a type of entity by its behavior and not by attribute
+we should define as an interface.

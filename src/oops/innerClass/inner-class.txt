@@ -1,0 +1,25 @@
+Inner Class
+~~~~~~~~~~~~~~~~
+
+Inner class is a class that is defined inside of another class.
+
+Inner class is also called as Nested Class.
+
+Types of Inner Classes
+~~~~~~~~~~~~~~~~~~~~~~~
+1. Non Static Inner Class
+2. Static Inner Class
+3. Method Local Inner Class
+
+1. Non Static Inner Class
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+e.g. package examples.a1
+
+2. Static Inner Class
+~~~~~~~~~~~~~~~~~~~~~~
+e.g. package examples.a2
+
+3. Method Local Inner Class
+~~~~~~~~~~~~~~~~~~~~~~~~~
+A class which is created inside of a method and use it immediately.
+e.g. package examples.a3
