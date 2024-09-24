@@ -1,0 +1,26 @@
+Coupling
+~~~~~~~~~~~~~~~~~
+
+Coupling is a measure of work which is involved in changing something
+
+Tight Coupling and Loose Coupling
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Why is coupling important ?
+
+Coupling is important everywhere
+
+An engine is tightly coupled to Car.
+A wheel is loosely coupled to a Car
+You can take a laptop anywhere you go.
+A Desktop, on the other hand, is a little bit more difficult to move.
+
+Coupling is even more important in building great software.
+Only thing constant in technology is change.  
+Business requirements change.
+Frameworks change.
+Code changes.
+We want Loose Coupling as much as possible.
+We want to make functional changes with as less code changes is possible.
+
+Java Interfaces help us to achieve Loose Coupling.
