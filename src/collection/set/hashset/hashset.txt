@@ -1,0 +1,9 @@
+HashSet
+~~~~~~~~~~~
+
+// HashSet class implements the Set interface
+// No guarantee is made as to the iteration order of the hash sets which means that the 
+// class does not guarantee the constant order of elements over time.
+// Objects that you insert in HashSet are not guaranteed to be inserted in the same order. 
+// NULL elements are allowed in HashSet.
+// As it implements the Set Interface, duplicate values are not allowed.

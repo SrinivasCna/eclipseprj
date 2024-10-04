@@ -1,0 +1,5 @@
+Stack
+~~~~~~~~~
+
+Stack Class implements Stack data structure.
+It is based on the principle of LAST-IN-FIRST-OUT (LIFO)

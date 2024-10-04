@@ -1,0 +1,6 @@
+Priority Queue
+~~~~~~~~~~~~~~~~~
+
+It is based on the principle of Queue Data Structure 
+FIRST-IN-FIRST-OUT (FIFO)
+PriorityQueue does not allow null values.

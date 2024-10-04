@@ -44,6 +44,7 @@ public class EnumWithSwitchDemo {
 		case DECEMBER:
 			System.out.println(monthName + ": 31");
 			break;
+
 		}
 	}
 }

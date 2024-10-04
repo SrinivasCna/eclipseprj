@@ -28,7 +28,7 @@ public class AnagramChecker {
 		String str2 = "Listen";
 
 		if (Anagram(str1, str2)) {
-			System.out.println(str1 + " and " + str2 + " are Anagrams");
+			System.out.println(str1 + " and " + str2 + " are an  Anagrams");
 		} else {
 			System.out.println(str1 + " and " + str2 + " are not Anagrams");
 		}
