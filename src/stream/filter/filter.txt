@@ -1,0 +1,6 @@
+Filter Method
+~~~~~~~~~~~~~~~
+
+filter()
+The filter method is used to select elements 
+as per the Predicate passed as an argument

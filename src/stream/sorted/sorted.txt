@@ -1,0 +1,5 @@
+Sorted Method
+~~~~~~~~~~~~~~`
+
+sorted()
+The sorted method is used to sort the stream

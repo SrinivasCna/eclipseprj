@@ -2,7 +2,8 @@ package basics.ch_09_arrays.practice;
 
 import java.util.Arrays;
 
-public class Initialize {
+public class ArrayInit {
+
 	public static void main(String[] args) {
 
 		int[] numbers1 = new int[3]; // Array for 3 int values, default value is 0
@@ -26,21 +27,18 @@ public class Initialize {
 		System.out.println(aaarray.length);
 		System.out.println(aaarray.length);
 
-		int[][] table = { 
-				{ 1, 2, 3 }, 
-				{ 4, 5, 6 } 
-		};
-		
+		int[][] table = { { 1, 2, 3 }, { 4, 5, 6 } };
+
 		String[] people = new String[] { "Carol", "Andy" };
 		int index = 2;
 		if (index >= 0 && index < people.length) {
-		 System.out.println(people[index]);
+			System.out.println(people[index]);
 		}
-		Integer[] integerArray = {1, 2, 3};
+		Integer[] integerArray = { 1, 2, 3 };
 		Number[] numberArray = integerArray; // valid
 		Number firstElement = numberArray[0]; // valid
-		numberArray[0] = 4; 
-
+		numberArray[0] = 4;
 
 	}
+
 }

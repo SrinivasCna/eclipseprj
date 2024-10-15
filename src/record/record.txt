@@ -1,0 +1,8 @@
+Record
+~~~~~~~~~~~
+
+Released in JDK 16
+
+Eliminate verbosity in creating Java Beans(Object)
+Public accessor and mutator methods, constructor
+equals, hashcode and toString are automatically created

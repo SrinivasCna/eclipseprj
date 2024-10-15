@@ -1,0 +1,23 @@
+TreeSet
+~~~~~~~~~
+
+TreeSet uses Tree Data Structure.
+
+A Binary Tree Data Structure
+// It is a hierarchical data structure in which each node has at most two children,
+// referred to as the left child and the right child. 
+// It is commonly used for efficient storage and retrieval of data, 
+// with various operations such as insertion, deletion, and traversal.
+
+//  
+// TreeSet maintains natural ordering of elements.
+// Objects in a TreeSet are stored in a sorted and ascending order.
+// Duplicate Values are not allowed.
+
+// The insertion of null values into a TreeSet throws NullPointerException 
+// because while insertion of null, it gets compared to the existing elements, 
+// and null cannot be compared to any value.
+
+// TreeSet serves as an excellent choice for storing large amounts of 
+// sorted information which are supposed to be accessed quickly 
+// because of its faster access and retrieval time.

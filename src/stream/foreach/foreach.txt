@@ -1,0 +1,6 @@
+For Each Method
+~~~~~~~~~~~~~~~~~~
+
+forEach()
+The forEach method is used to iterate through every 
+element of the stream.

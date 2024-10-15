@@ -1,0 +1,23 @@
+Iterator
+~~~~~~~~~~~~
+
+Iterators are used in the Collection framework to retrieve elements one by one. 
+It is a universal iterator as we can apply it to any Collection object. 
+By using Iterator, we can perform both read and remove operations. 
+It is an improved version of Enumeration with the additional 
+functionality of removing an element.
+
+Iterator must be used whenever we want to enumerate elements in all 
+Collection framework implemented interfaces like Set, List, Queue, Deque, 
+and all implemented classes of Map interface. 
+The iterator is the only cursor available for the entire collection framework.
+An iterator object can be created by calling the iterator() method present 
+in the Collection interface.
+
+SYNTAX
+Iterator itr = Collection.iterator();
+
+An Iterator is an object that can be used to loop through collections
+like ArrayList and HashSet. 
+
+It is called an "iterator" because "iterating" is the technical term for looping.

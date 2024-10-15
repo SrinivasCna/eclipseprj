@@ -1,0 +1,10 @@
+Reduce Method
+~~~~~~~~~~~~~~~~~~~
+
+reduce()
+The reduce method is used to reduce the elements of a stream to a single value. 
+The reduce method takes a BinaryOperator as a parameter.
+
+sum(), min(), max(), count() etc. are some examples of reduce operations. 
+reduce() explicitly asks you to specify how to reduce the data 
+that made it through the stream.

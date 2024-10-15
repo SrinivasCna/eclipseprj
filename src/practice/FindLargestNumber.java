@@ -23,7 +23,7 @@ public class FindLargestNumber {
 
 		}
 		int largesttt = largest(numbers);
-		System.out.println(largesttt);
+		System.out.println("the largest element in the array is:  " + largesttt);
 	}
 
 	public static int largest(int[] numbers) {

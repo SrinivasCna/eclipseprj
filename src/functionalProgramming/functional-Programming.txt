@@ -1,0 +1,8 @@
+Functional Programming
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Traditional Programming  x  Functional Programming
+Structured Programming   x  Functional Programming
+
+How to do        x      What to do
+

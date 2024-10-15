@@ -1,0 +1,6 @@
+Collect Method
+~~~~~~~~~~~~~~~~~
+
+collect()
+The collect method is used to return the result 
+of the intermediate operations performed on the stream.

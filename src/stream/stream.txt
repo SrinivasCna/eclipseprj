@@ -1,0 +1,31 @@
+Stream API
+~~~~~~~~~~~
+
+Stream API is a way to express and process collection of objects. 
+Stream API enable us to perform operations like
+filtering, mapping, reducing and sorting.
+
+There are two types of Operations in Streams.
+
+1. Intermediate Operations.
+2. Terminal Operations.
+
+Characteristics of Intermediate Operations.
+1. Methods are chained together.
+2. Intermediate operations transform a stream into another stream.
+3. It enables the concept of filtering where one method filters data
+and passes it to another method after processing.
+
+Important Intermediate Operations.
+1. map()
+2. filter()
+3. sorted()
+
+Terminal Operations
+Terminal Operations return the result.
+These Operations are not processed further and just return a final result value.
+
+Important Terminal Operations.
+1. collect()
+2. forEach()
+3. reduce()

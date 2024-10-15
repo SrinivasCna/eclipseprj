@@ -1,0 +1,6 @@
+Map method
+~~~~~~~~~~~~
+
+map()
+The map method is used to return a stream consisting of the results of 
+applying the given function to the elements of this stream.
